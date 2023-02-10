@@ -1,0 +1,58 @@
+[
+    {
+        "title":"meditation",
+        "status":"notstarted",
+        "priority":"high"
+    },
+    {
+        "title":"walking",
+        "status":"inprogress",
+        "priority":"medium"
+    },
+    {
+        "title":"personality development",
+        "status":"notstarted",
+        "priority":"medium"
+    },
+    {
+        "title":"communication skills",
+        "status":"complete",
+        "priority":"medium"
+    },
+    {
+        "title":"youtube video making",
+        "status":"complete",
+        "priority":"low"
+    },
+    {
+        "title":"react tutorials",
+        "status":"complete",
+        "priority":"medium"
+    },
+    {
+        "title":"cleaning home",
+        "status":"notstarted",
+        "priority":"low"
+    },
+    {
+        "title":"linkedin",
+        "status":"inprogress",
+        "priority":"high"
+    },
+    {
+        "title":"instagram",
+        "status":"inprogress",
+        "priority":"low"
+    },
+    {
+        "title":"visit bhawarkua square",
+        "status":"inprogress",
+        "priority":"low"
+    },
+    {
+        "title":"reading",
+        "status":"notstarted",
+        "priority":"high"
+    }
+  
+]
